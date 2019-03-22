@@ -1,6 +1,6 @@
 # InvertedIndex
 Hadoop MapReduce
 
-数据下载：链接：https://pan.baidu.com/s/15w962s4AfNciCK6yegr_ww 提取码：g2tt 
+data：链接: https://pan.baidu.com/s/1tx60G-zEGAzMEP3_GArmog 提取码: xkre 
 
-操作过程可以看执导的PDF
+To setup the environement in dataproc on Google cloud, and how to commit a job, pleases refer to the PDF attatched.
